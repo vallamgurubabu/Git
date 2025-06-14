@@ -177,5 +177,5 @@ For any hotfixes, create a branch like `hotfix/fix-issue-name` and follow the sa
 ## ✍️ Created by:
 
 **Gurubabu Vallam** – Java Full Stack Developer  
-📧 gurubabu@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/gurubabu-vallam)
+📧 vallamgurubabu8@gmail.com 
+🔗 [LinkedIn](https://www.linkedin.com/in/vallam-gurubabu-13994027a/)
